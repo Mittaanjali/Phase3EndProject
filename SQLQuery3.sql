@@ -1,0 +1,7 @@
+SELECT TOP (1000) [EmpCode]
+      ,[DateOfBirth]
+      ,[EmpName]
+      ,[Email]
+      ,[DeptCode]
+      ,[DeptMasterDeptCode]
+  FROM [Employee030124Db].[dbo].[EmpProfile]
